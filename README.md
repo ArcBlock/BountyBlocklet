@@ -1,8 +1,8 @@
-# BountyBlocklet
-Bounty Task Blocklet 
+# 赏金任务 Blocklet
+基于ArcBlock平台的赏金任务Blocklet
 
 
-Reference: 
+讨论参考: 
 
 https://community.arcblockio.cn/t/topic/244 
 
